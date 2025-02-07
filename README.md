@@ -1,5 +1,6 @@
 # Arai60
-arai60 (https://1kohei1.com/leetcode/) を解いていきます。
+arai60 (https://1kohei1.com/leetcode/) を解いていきます。  
+SWE 協会のコーディング練習会に参加中。
 
 ## 練習方法
 ### step 1
@@ -10,6 +11,7 @@ arai60 (https://1kohei1.com/leetcode/) を解いていきます。
 
 ### step 2
   - コードを読みやすくするようにできるだけ整える
+  - 他の人のコードとコメントを見る
 
 ### step 3
 - 3回連続で「正しいコードを書くことに成功」するまで書き続ける。
